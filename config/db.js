@@ -2,5 +2,6 @@
 // To run locally use 'mongodb://localhost/mern-crud' instead of process.env.DB
 
 module.exports = {
-  db: process.env.DB
+  db: 
+  'mongodb+srv://drvicki:spitfire@cluster0.w6xfakq.mongodb.net/?retryWrites=true&w=majority'
 };
